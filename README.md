@@ -19,6 +19,6 @@ A full-stack application architected to bridge real-time external data with loca
 
 ##  Deployment & Setup
 1. Clone the repository.
-2. Configure your `DATABASE_URL` and `PORT` in the environment environment.
+2. Configure your `DATABASE_URL` and `PORT` in the environment variables.
 3. Execute `npm install` in both `/ravenous` and `/server` directories.
 4. Launch the environment using `npm run dev`.
